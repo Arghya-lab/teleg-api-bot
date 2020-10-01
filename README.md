@@ -1,6 +1,6 @@
 # teleg-api-bot
 
-Telegram Api for new bot system
+Teleg-api-bot is a  Api based bot.It is fresh,useful and cool bot for telegram.
 
 ## Getting started
 
